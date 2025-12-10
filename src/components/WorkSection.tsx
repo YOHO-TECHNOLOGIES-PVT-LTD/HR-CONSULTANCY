@@ -142,7 +142,7 @@ export default function CountryCoverageSection() {
   const testimonials: Testimonial[] = [
     {
       text: "I got placed as a welder in Singapore through their agency. The trade test training was excellent and their documentation support made the entire process smooth. Now earning 3x my previous salary with better benefits!",
-      name: "Ravi Verma",
+      name: "Deepti Raj",
       role: "Welder - Singapore",
       img: webimg1,
     },
@@ -154,7 +154,7 @@ export default function CountryCoverageSection() {
     },
     {
       text: "Their support for Singapore trade test preparation was exceptional. I passed my SEC test and got placed as a steel fixer within 4 months. Truly life-changing opportunity with better career growth!",
-      name: "Suresh Patel",
+      name: "Rai Patel",
       role: "Steel Fixer - Singapore",
       img: webimg1,
     }

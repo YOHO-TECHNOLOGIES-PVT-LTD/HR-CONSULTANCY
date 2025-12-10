@@ -11,9 +11,17 @@ export default function Header() {
   const navigate = useNavigate();
 
   // Scroll to top when route changes
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [location.pathname]);
+// Scroll to top when route changes
+useEffect(() => {
+  // Scroll window to top
+  window.scrollTo({ top: 0, behavior: 'instant' });
+  
+  // Also scroll any main content element if it exists
+  const main = document.querySelector('main');
+  if (main) {
+    main.scrollTo({ top: 0, behavior: 'instant' });
+  }
+}, [location.pathname]);
 
   useEffect(() => {
     const handleScroll = () => {
