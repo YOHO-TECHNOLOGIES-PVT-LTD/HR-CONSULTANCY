@@ -111,7 +111,9 @@ export default function VisaConsultationLayout() {
                     <FaPhone className="mr-2 text-xs sm:text-sm" />
                     <span className="text-xs sm:text-sm font-medium">Contact Number</span>
                   </div>
-                  <p className="text-gray-900 text-lg font-semibold">7395969270</p>
+                  <p className="text-gray-900 text-lg font-semibold">+91 7395969270</p>
+                  <p className="text-gray-900 text-lg font-semibold">+91 9500625270</p>
+
                 </div>
 
                 {/* Email */}
