@@ -182,8 +182,9 @@ export default function FooterSection() {
 
       {/* Footer Bottom */}
       <div className="border-t border-white/20 py-3 md:py-4 text-center text-xs opacity-80">
-        Copyright © 2025 TJ-TECH BUSINESS SOLUTIONS PVT LTD. All Rights Reserved.
-      </div>
+  Copyright © {new Date().getFullYear()} TJ-TECH BUSINESS SOLUTIONS PVT LTD. All Rights Reserved.
+</div>
+
     </div>
   );
 }
