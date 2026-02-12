@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-  --sprite-url: url('https://storage.googleapis.com/KIAQ-uploads/uploads/sprite_file-v17.svg');
+  --sprite-url: url('https://storage.googleapis.com/tjtech-uploads/uploads/sprite_file-v17.svg');
   --notification-bg-pattern-large: url("https://cdn.prod.website-files.com/660dcc7f45ad8881324199b5/6662cc938843109182e2cd39_notification-pattern-12.png");
   --notification-bg-pattern-small: url("https://cdn.prod.website-files.com/660dcc7f45ad8881324199b5/6662cc93ebd10eda404afe3e_notification-pattern-13.png");
-  --notification-logo-small: url("https://cdn.prod.website-files.com/660dcc7f45ad8881324199b5/6662cc93fb59e551fe7827ef_notification-KIAQ-logo.png");
+  --notification-logo-small: url("https://cdn.prod.website-files.com/660dcc7f45ad8881324199b5/6662cc93fb59e551fe7827ef_notification-tjtech-logo.png");
 }
 
 .andl-body {

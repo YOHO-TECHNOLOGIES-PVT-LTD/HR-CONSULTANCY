@@ -65,7 +65,7 @@ useEffect(() => {
             <Link to="/" className="flex items-center">
               <img
                 src={image}
-                alt="KIAQ Logo"
+                alt="tjtech Logo"
                 className="h-auto w-20 sm:w-24 md:w-32 lg:w-36 object-contain transition-all duration-300"
               />
             </Link>
